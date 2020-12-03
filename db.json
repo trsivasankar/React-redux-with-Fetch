@@ -1,0 +1,338 @@
+{
+  "upcomingMovies": [
+    {
+      "id": "5ab12612f36d2879268f284a",
+      "name": "Black Panther",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+    },
+    {
+      "id": "5ab12666f36d2879268f2902",
+      "name": "Death Wish",
+      "language": "ENGLISH",
+      "type": "Action Crime Thriller",
+      "rate": 3.2,
+      "imageUrl": "https://image.ibb.co/gC9PfH/dw.jpg"
+    },
+    {
+      "id": "5ab12678f36d2879268f291d",
+      "name": "Coco",
+      "language": "ENGLISH",
+      "type": "Adventure Animation Family",
+      "rate": 5,
+      "imageUrl": "https://image.ibb.co/dQwWSx/coco.jpg"
+    }
+  ],
+  "latestMovies": [
+    {
+      "_id": "5ab126b6f36d2879268f2943",
+      "name": "Avengers",
+      "language": "ENGLISH",
+      "type": "Actione",
+      "rate": 2,
+      "imageUrl": "images/galleries/first.jpg"
+    },
+    {
+      "_id": "5ab4e66b0c1d2b27846c6407",
+      "name": "Black Friday",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+    }
+  ],
+  "events": [
+    {
+      "_id": "5ab126b6f36d2879268f2943",
+      "name": "Avengers",
+      "language": "ENGLISH",
+      "type": "Actione",
+      "rate": 2,
+      "imageUrl": "images/galleries/first.jpg"
+    },
+    {
+      "_id": "5ab4e66b0c1d2b27846c6407",
+      "name": "Black Friday",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+    }
+  ],
+  "ticketbooked": [
+    {
+      "id": 20,
+      "name": "Archana",
+      "phone": "83264480",
+      "date": "83264480",
+      "email": "arc@edureka.co",
+      "subject": "Redux State"
+    },
+    {
+      "id": 909,
+      "name": "",
+      "date": "2020-11-21",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "subject": "5"
+    },
+    {
+      "id": 149,
+      "selectedOption": {
+        "value": "strawberry",
+        "label": "Strawberry"
+      },
+      "date": "2020-11-24",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "subject": "5"
+    },
+    {
+      "id": 474,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "2020-11-18",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "subject": "4"
+    },
+    {
+      "id": 1,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "2020-11-24",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": "3"
+    },
+    {
+      "id": 119,
+      "selectedOption": {
+        "value": "02:30",
+        "label": "02:30"
+      },
+      "date": "",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": "4"
+    },
+    {
+      "id": 943,
+      "selectedOption": {
+        "value": "02:30",
+        "label": "02:30"
+      },
+      "date": "2020-11-28",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": "3"
+    },
+    {
+      "id": 997,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 852,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 236,
+      "selectedOption": [],
+      "date": "2020-11-28",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": "4"
+    },
+    {
+      "id": 726,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "2020-11-26",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": ""
+    },
+    {
+      "id": 135,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 373,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 57,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": ""
+    },
+    {
+      "id": 836,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 339,
+      "selectedOption": {
+        "value": "06:30",
+        "label": "06:30"
+      },
+      "date": "",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": ""
+    },
+    {
+      "id": 453,
+      "selectedOption": [],
+      "date": "2020-11-20",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 709,
+      "selectedOption": {
+        "value": "02:30",
+        "label": "02:30"
+      },
+      "date": "2020-11-19",
+      "phone": "09600633327",
+      "email": "trsivasankar@gmail.com",
+      "tickets": "3"
+    },
+    {
+      "id": 313,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 845,
+      "selectedOption": [],
+      "date": "",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    },
+    {
+      "id": 895,
+      "selectedOption": [],
+      "date": "2020-11-27",
+      "phone": "",
+      "email": "",
+      "tickets": ""
+    }
+  ],
+  "galleries": [
+    {
+      "id": 1,
+      "artist": "Ariana Grande",
+      "title": "Lorem ipsum dolor sit amet",
+      "images": [
+        {
+          "img": "1_1.jpg",
+          "desc": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        },
+        {
+          "img": "1_2.jpg",
+          "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae"
+        },
+        {
+          "img": "1_3.jpg",
+          "desc": "magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit"
+        }
+      ],
+      "views": 237,
+      "likes": [
+        18,
+        13
+      ]
+    },
+    {
+      "id": 2,
+      "artist": "Matt Damon",
+      "title": "Lorem ipsum dolor sit amet",
+      "images": [
+        {
+          "img": "2_1.jpeg",
+          "desc": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        },
+        {
+          "img": "2_2.jpg",
+          "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae"
+        },
+        {
+          "img": "2_3.jpg",
+          "desc": "magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit"
+        }
+      ],
+      "views": 237,
+      "likes": [
+        13,
+        10
+      ]
+    },
+    {
+      "id": 3,
+      "artist": "Matt Damon",
+      "title": "Lorem ipsum dolor sit amet",
+      "images": [
+        {
+          "img": "3_1.jpg",
+          "desc": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        },
+        {
+          "img": "2_2.jpg",
+          "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae"
+        },
+        {
+          "img": "2_3.jpg",
+          "desc": "magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit"
+        }
+      ],
+      "views": 237,
+      "likes": [
+        13,
+        10
+      ]
+    }
+  ]
+}
